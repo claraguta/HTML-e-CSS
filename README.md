@@ -1,12 +1,12 @@
-# h1 HTML e CSS
+# HTML e CSS
 
 As linguagens de HTLM e CSS são muito usadas na elaboração de websites, sempre conectadas ao trabalho em frontend. É verdade que há quem não considere ambos nem sequer uma linguagem de programação, mas outros tipos de linguagem, como veremos abaixo.
 
-# h2 Aprofundando sobre HTML
+# Aprofundando sobre HTML
 
 Talvez HTML seja a linguagem mais conhecida, por ter sido muito relevante no passado e por ter sido o passatempo das blogueiras adolescentes millenials. Apesar de não ser considerada uma linguagem de programação, é considera uma linguagem de marcação de texto.
 
-![] (https://giphy.com/embed/Vwz4zdntMXrUY)
+<iframe src="https://giphy.com/embed/Vwz4zdntMXrUY" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/excited-computer-descriptive-noise-Vwz4zdntMXrUY">via GIPHY</a></p>
 
 O HTML significa HyperText Markup Language, ou seja, é uma linguagem de marcação de texto, que acaba por transformá-lo em hipertexto. 
 
